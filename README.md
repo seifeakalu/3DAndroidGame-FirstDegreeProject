@@ -1,7 +1,7 @@
 ## Fear Plane drawable image game
 This app has been developed with 3DSMax animation and graphic design. The plane moves left and right with Android device screen orientation. Also, stores the best level to SQLite DB
 
-No source code for this project since it's first degree project it is a mess.  Comeon atleast I've tried. :satisfied:
+No source code for this project. Since it's first degree project,  the code is a mess.  Comeon atleast I've tried. :satisfied:
 
 ## Check the Game video/image 
 
