@@ -5,6 +5,8 @@ This app has been developed with 3DSMax animation and graphic design. It moves l
 
 <a href="https://drive.google.com/uc?id=1eKbbOd5HNf8H619gtcUR-NyEqtDuliMJ">Screen Record</a>
 
+Comeon atleast I've tried :)
+
 ### Image of the Application
 <p float="left">
 <img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-02-35.png" width="250" height="450" />
