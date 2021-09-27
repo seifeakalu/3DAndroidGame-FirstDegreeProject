@@ -6,7 +6,7 @@ This app has been developed with 3DSMax animation and graphic design. It moves l
 ### Image of the Application
 <p float="left">
 <img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-02-35.png" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/blob/master/APK%20file/b.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-03-43.png" width="250" height="450" />
 <img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/blob/master/APK%20file/c.png" width="250" height="450" />
 </p>
 <p float="left">
