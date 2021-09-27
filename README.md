@@ -3,7 +3,7 @@ This app has been developed with 3DSMax animation and graphic design. It moves l
 
 ## Check the video 
 
-<a href="https://drive.google.com/uc?id=1eKbbOd5HNf8H619gtcUR">Screen Record</a>
+<a href="https://drive.google.com/uc?id=1eKbbOd5HNf8H619gtcUR-NyEqtDuliMJ">Screen Record</a>
 
 ### Image of the Application
 <p float="left">
