@@ -10,7 +10,7 @@ This app has been developed with 3DSMax animation and graphic design. It moves l
 <img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-03-57%20(1).png" width="250" height="450" />
 </p>
 <p float="left">
-<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/blob/master/APK%20file/d.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-04-36.png" width="250" height="450" />
 <img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-04-48.png" width="250" height="450" />
 <img src="https://github.com/seifeakalu/game-screen_shot/blob/master/Screenshot_2019-05-31-09-05-23.png" width="250" height="450" />
 </p>
