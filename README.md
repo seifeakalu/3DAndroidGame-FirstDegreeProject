@@ -5,7 +5,7 @@ No source code for this project. Since it's first degree project,  the code is a
 
 ## Check the Game video/image 
 
-<a href="https://drive.google.com/uc?id=1eKbbOd5HNf8H619gtcUR-NyEqtDuliMJ">Screen Record</a>
+<a href="https://drive.google.com/file/d/1eKbbOd5HNf8H619gtcUR-NyEqtDuliMJ/view?usp=drive_link">Screen Record</a>
 
 
 ### Image of the Application
